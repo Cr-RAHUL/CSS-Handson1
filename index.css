@@ -1,0 +1,44 @@
+.text{
+    color:brown;
+    font-weight:bold;
+}
+.text1{
+   color:brown;
+   font-weight:bold
+
+}
+.text2{
+   color:brown;
+   text-decoration:line-through;
+   font-weight:bold;
+}
+.text3{
+    color:brown;
+    background-color:yellow;
+    font-weight:bold;
+}
+.text4{
+    color:brown;
+    font-weight:bold;
+}
+.text5{
+    color:brown;
+    text-decoration:underline;
+    font-style:italic;
+    font-weight:bold;
+}
+#text6{
+    color:brown;
+    letter-spacing:5px;
+    font-weight:bold;
+}
+.text7{
+    background-color: yellow;
+    font-weight: bold;
+}
+#text8{
+    color:red;
+    background-color:yellow;
+    font-style:italic;
+    text-decoration: none;
+}
